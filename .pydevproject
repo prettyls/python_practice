@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+        
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/src</path>
+        <path>/${PROJECT_DIR_NAME}/src/2DArray</path>
+        <path>/${PROJECT_DIR_NAME}/src/ArithmeticOperators</path>
+        <path>/${PROJECT_DIR_NAME}/src/evenAndOddCharacters</path>
+        <path>/${PROJECT_DIR_NAME}/src/guidewire_test</path>
+        <path>/${PROJECT_DIR_NAME}/src/mobitools</path>
+        <path>/${PROJECT_DIR_NAME}/src/mp4-hls-ran</path>
+        <path>/${PROJECT_DIR_NAME}/src/MPDFetch</path>
+        <path>/${PROJECT_DIR_NAME}/src/networkSniffing</path>
+    </pydev_pathproperty>
+        
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+        
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    
+</pydev_project>
